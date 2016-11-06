@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silver-leapmotion.CSharp", "Silver-leapmotion.CSharp.csproj", "{EFA8006C-F29A-DE77-309C-531AE3729A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silver-leapmotion.CSharp.Editor", "Silver-leapmotion.CSharp.Editor.csproj", "{7887B5DB-43ED-7849-37B2-D13A70761A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA8006C-F29A-DE77-309C-531AE3729A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA8006C-F29A-DE77-309C-531AE3729A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA8006C-F29A-DE77-309C-531AE3729A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA8006C-F29A-DE77-309C-531AE3729A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7887B5DB-43ED-7849-37B2-D13A70761A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7887B5DB-43ED-7849-37B2-D13A70761A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7887B5DB-43ED-7849-37B2-D13A70761A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7887B5DB-43ED-7849-37B2-D13A70761A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
